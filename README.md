@@ -1,0 +1,2 @@
+# Advanced-Chatbot-with-Langchain-and-Llama2-Deployed-
+The Advanced PDFs Chatbot is a sophisticated application that allows users to upload PDF documents, process them, and engage in a conversational interface where they can ask questions about the content of the documents. This project leverages cutting-edge technologies such as Langchain and Llama2 to provide an intelligent conversational experience.
