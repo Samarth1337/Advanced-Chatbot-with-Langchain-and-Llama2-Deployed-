@@ -10,6 +10,8 @@ This project allows you to upload PDF documents, process them, and then engage i
 
 1. Download the llama 2 7B GGUF model from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/llama-2-7b-chat.Q4_K_M.gguf and place it in the models folder
 
+![pdf_chatbot_Llama2](https://github.com/Samarth1337/Advanced-Chatbot-with-Langchain-and-Llama2-Deployed-/assets/42602263/d99d6bc3-2f36-448b-8eed-7bcb9dd10dd5)
+
 ### How it Works
 1. GUI Development: The application's graphical user interface (GUI) is built using Streamlit, providing an intuitive and user-friendly interface for document upload, processing, and chat interaction.
 2. Document Processing: Upon document upload, the application reads text from PDF files and splits it into chunks for efficient processing.
